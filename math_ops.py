@@ -15,4 +15,6 @@ if __name__ == "__main__":
     x = 10
     y = 0
     result = divide_numbers(x, y)
+    multiply_result = mutiply_numbers(x, y)
     print(f"The result of division is: {result}")
+    print(f"The result of multiplication is: {multiply_result}")
